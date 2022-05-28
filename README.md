@@ -1,14 +1,17 @@
 ![](https://github.com/phvleite/trybe-exercicios/blob/main/a-fundamentos-do-desenvolvimento-web/bloco-03-introducao-a-html-e-css/dia-01-b-html-e-css-estruturas-de-pagina/banner-trybe-t19a-transparente-2.png?raw=true)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite)](https://github.com/phvleite/github-readme-stats)
-
 # _Paulo Henrique Vieira Leite_
+
 ## _Portifólio Trabalhos Trybe_
 #### Repositório dos trabalhos realizados durante o _Curso de Desenvolvedor WEB da Trybe_
 Este repositório tem o proposito de mostrar minha evolução dentro de curso de Desenvolvedor WEB.
+
 ### Onde resido
 #### _Maceió - Alagoas_
+
 ![](https://scontent.fmcz3-1.fna.fbcdn.net/v/t39.30808-6/s960x960/259544754_4908489839182408_415458012704865411_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE3iwqUd45_9qX3-jD33rq27t3EvWT1Jsru3cS9ZPUmyh9Vy8WG7i7VCipZsp0FIEaM1657LpyPOXLv92tM-gFj&_nc_ohc=IrzGfhdC4OAAX9PKGCD&_nc_ht=scontent.fmcz3-1.fna&oh=e72d245dfa8acfbe2e72af3e45770871&oe=619F6689)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite&hide=contribs,prs)
+
 ### Minha trajetória
 Iniciei minha trajetória no universo da **_Tecnologia da Informação_** em 1991 no SENAC de Maceió, aprendendo o que era dominante na época, MS-DOS, WordStar, Lotus 1-2-3 e DBase,
 meu instrutor vendo minha evolução, convidou-me para o **_Curso de Programação_**, minha porta de entrada neste universo foi o módulo de **_Construção de Algorítimo_**,
