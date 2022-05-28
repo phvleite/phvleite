@@ -12,8 +12,7 @@ meu instrutor vendo minha evolução, convidou-me para o **_Curso de Programaç�
 a base para ser programador, um estudo com apenas papel, lápis e borracha, e que graças a ele hoje posso aprender qualquer linguagem. Então fiz _Dbase III Plus Programado,
 Pascal e Clipper_. O mesmo professor que me convidou para fazer programação, também me convidou para ser instrutor do Senac, onde fui ensinar informática
 básica. Quis o destino que eu entrasse no Senac sem saber ligar um computador, e saísse ensinando a usar um. O destino acabou me afastando da escola,
-e me levando para outros mares, acabei indo para automação comercial na área de **Alimentação Fora do Lar**, muito conhecido como bares e restaurantes,
-onde fiz vários clientes, mas também amigos, e acabei trabalhando em um destes clientes, não em TI, mas como financeiro. E então veio a pandemia, tive
-que ficar em casa, optei por estudar, ocupar a cabeça, e meu pai, que era um senhor idoso, a quem eu cuidava, faleceu e perdi meu emprego, estou agora
-escrevendo mais uma página em minha, desta vez como estudante da Trybe, da turma 19, tribo A, por isso o T19A na imagem no topo, voltando para minhas
-origens, voltando para o que amo, programar. Esse é um apenas um breve resumo, mas é o incio de uma nova viagem. Abraços.
+e me levando para outros mares, acabei indo para automação comercial na área de **Alimentação Fora do Lar**, bares e restaurantes,
+onde fiz vários clientes, mas também amigos, e acabei trabalhando em um destes clientes, não em TI, mas como financeiro. Estou agora
+escrevendo mais uma página em minha, desta vez como estudante da Trybe, da turma 19, tribo A, voltando para minhas
+origens. Esse é um apenas um breve resumo, mas é o incio de uma nova viagem. Abraços.
