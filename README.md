@@ -9,8 +9,7 @@ Este repositório tem o proposito de mostrar minha evolução dentro de curso de
 #### _Maceió - Alagoas_
 
 ![](https://scontent.fmcz3-1.fna.fbcdn.net/v/t39.30808-6/s960x960/259544754_4908489839182408_415458012704865411_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE3iwqUd45_9qX3-jD33rq27t3EvWT1Jsru3cS9ZPUmyh9Vy8WG7i7VCipZsp0FIEaM1657LpyPOXLv92tM-gFj&_nc_ohc=IrzGfhdC4OAAX9PKGCD&_nc_ht=scontent.fmcz3-1.fna&oh=e72d245dfa8acfbe2e72af3e45770871&oe=619F6689)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite&hide=contribs,prs&show_icons=true)
 
 ### Minha trajetória
 Iniciei minha trajetória no universo da **_Tecnologia da Informação_** em 1991 no SENAC de Maceió, aprendendo o que era dominante na época, MS-DOS, WordStar, Lotus 1-2-3 e DBase,
