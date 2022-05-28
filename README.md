@@ -8,7 +8,8 @@ Este repositório tem o proposito de mostrar minha evolução dentro de curso de
 ### Onde resido
 #### _Maceió - Alagoas_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite&hide=contribs,prs&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite&hide=contribs,prs&show_icons=true&count_private=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phvleite&layout=compact)](https://github.com/phvleite/github-readme-stats)
 
 ### Minha trajetória
 Iniciei minha trajetória no universo da **_Tecnologia da Informação_** em 1991 no SENAC de Maceió, aprendendo o que era dominante na época, MS-DOS, WordStar, Lotus 1-2-3 e DBase,
