@@ -1,4 +1,7 @@
 ![](https://github.com/phvleite/trybe-exercicios/blob/main/a-fundamentos-do-desenvolvimento-web/bloco-03-introducao-a-html-e-css/dia-01-b-html-e-css-estruturas-de-pagina/banner-trybe-t19a-transparente-2.png?raw=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phvleite)](https://github.com/phvleite/github-readme-stats)
+
 # _Paulo Henrique Vieira Leite_
 ## _Portifólio Trabalhos Trybe_
 #### Repositório dos trabalhos realizados durante o _Curso de Desenvolvedor WEB da Trybe_
